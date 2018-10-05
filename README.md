@@ -1,3 +1,5 @@
+
+
 # Projet arduino
 
 Toutes nos expériences et notes sur ces expériences faites
@@ -8,7 +10,7 @@ Du plus simple jusqu'à ... ce qu'on pourra.
 
 ## Les projets :
 
-Ils sont décrits [ici](doc/README.md)
+Ils sont décrits [ici](doc/README.md). 
 Nous fournissons avec chaque projet :
 
 - une documentation pour le refaire
