@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Projet arduino
 
-You can use the [editor on GitHub](https://github.com/BLVCK971/arduino/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Toutes nos expériences et notes sur ces expériences faites
+dans le cadre de l'association [htt://wi-bash.fr](Wi-Bash).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Il s'agit de proposer des projets réalisés avec des Arduino.
+Du plus simple jusqu'à ... ce qu'on pourra.
 
-### Markdown
+## Les projets :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ils sont décrits [ici](doc/README.md)
+Nous fournissons avec chaque projet :
 
-```markdown
-Syntax highlighted code block
+- une documentation pour le refaire
 
-# Header 1
-## Header 2
-### Header 3
+- le code source
 
-- Bulleted
-- List
+- des idées de développement possible.
 
-1. Numbered
-2. List
+## Remarques sur la recherche internet de documentation
 
-**Bold** and _Italic_ and `Code` text
+Dans un premier temps, nous allons utiliser pas mal de tutoriels
+pour nous former (plus tard, nous regarderons les docs techniques).
 
-[Link](url) and ![Image](src)
-```
+Le risque est alors de suivre des tutoriels moisis, faire des erreurs,
+et de propager ces mauvaises pratiques
+(par l'intermédiaire de sites comme celui ci).
+Par exemple, on trouve certains tutoriels qui peuvent nous amener a détériorer
+nos cartes (pas de panique quand même, elles sont relativement robustes).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+La sélection de sources est primordiale pour les débutants.
+Voici donc quelques pistes pour cela :
 
-### Jekyll Themes
+- un tutoriel trouvé sur le [site officiel arduino](https://www.arduino.cc/)
+est a priori fiable...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BLVCK971/arduino/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Adafruit](http://www.adafruit.com) est un des gros vendeurs de matériel électronique pour makers
+aux USA. Pour chaque composant qu'ils vendent, ils fournissent un tutoriel,
+également souvent très fiable.
 
-### Support or Contact
+Si par exemple, vous voulez savoir comment faire fonctionner un buzzer
+qu'on vous a prêté
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. cherchez donc *"adafruit buzzer"* sur votre moteur de recherche,
+
+2. trouvez celui dont la photo ressemble que vous avez dans les mains
+
+3. regardez le/les tutos associés.
